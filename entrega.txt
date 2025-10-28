@@ -1,0 +1,10 @@
+Repositorio: https://github.com/MariaGarcia27/Parcial2_Carrito
+Integrantes:
+- Mari Gómez
+- Marialina Ramos
+
+App desplegada: https://miapp-production.up.railway.app
+
+Evidencias:
+- GitHub Actions: https://github.com/MariaGarcia27/Parcial2_Carrito/actions
+- Tablero Projects: https://github.com/MariaGarcia27/Parcial2_Carrito/projects
