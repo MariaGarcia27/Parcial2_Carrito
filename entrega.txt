@@ -3,7 +3,7 @@ Integrantes:
 - Maria García
 - Marialina Ramos
 
-App desplegada: https://miapp-production.up.railway.app
+App desplegada: https://web-production-d8b7d.up.railway.app/
 
 Evidencias:
 - GitHub Actions: https://github.com/MariaGarcia27/Parcial2_Carrito/actions
